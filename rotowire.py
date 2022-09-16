@@ -20,10 +20,11 @@ class Rotowire:
         html = BeautifulSoup(html.text,"html.parser")
 
         # gather initial data
+        today = datetime.now()
         league = html.find("h1",class_="page-title__primary").text.strip()
         self.league = league.replace(" Lineups","")
         row = dict(
-            scraping_timestamp=datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            scraping_timestamp=today.strftime("%Y-%m-%d %H:%M:%S"),
             league=self.league
         )
 
@@ -34,6 +35,9 @@ class Rotowire:
                 schedule = lineup.find("div",class_="lineup__time")
                 for label,string in zip(["date","time"],schedule.strings):
                     row[label] = string.strip()
+                    if label == "date":
+                        date = datetime.strptime(string.strip(),"%B %d")
+                        row[label] = date.replace(year=today.year)
 
                 lineup = lineup.find("div",class_="lineup__box")
                 header = lineup.find("div",class_="lineup__matchup")
@@ -61,7 +65,8 @@ class Rotowire:
 
                             new_row.update(row)
                             self.lineup_rows.append(new_row)
-                        else:
+
+                        elif not row['status']:
                             row['status'] = player.text.strip()
        
     def export_as(self,kind):
