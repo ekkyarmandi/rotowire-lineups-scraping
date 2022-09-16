@@ -6,9 +6,6 @@ import json
 
 class Rotowire:
 
-    def __init__(self) -> None:
-        self.lineup_rows = []
-
     def get(self,url) -> None:
         '''
         Make a GET request to the URL and scrape the lineups
@@ -29,9 +26,10 @@ class Rotowire:
         )
 
         # fint the lineups
+        self.lineup_rows = []
         lineups = html.find("div",class_="lineups").find_all("div",class_="lineup")
         for lineup in lineups:
-            if 'is-ad' not in lineup['class']:
+            if all([x not in lineup['class'] for x in ['is-ad','is-tools']]):
                 schedule = lineup.find("div",class_="lineup__time")
                 for label,string in zip(["date","time"],schedule.strings):
                     row[label] = string.strip()
@@ -43,13 +41,14 @@ class Rotowire:
                 header = lineup.find("div",class_="lineup__matchup")
                 row['home'] = header.find("div",class_="is-home").text.strip()
                 row['away'] = header.find("div",class_="is-visit").text.strip()
-                row['status'] = None
 
                 game = lineup.find("div",class_="lineup__main")
 
                 game_class = ["is-home","is-visit"]
                 teams = [row['home'],row['away']]
                 for gc, team in zip(game_class,teams):
+                    injury = False
+                    row['status'] = None
                     game_pos = game.find("ul",class_=gc)
                     players = game_pos.select("li[class*='lineup']")
                     for player in players:
@@ -57,30 +56,37 @@ class Rotowire:
                         if "lineup__player" in player['class']:
                             new_row['position'] = player.find("div",class_="lineup__pos").text.strip()
                             new_row['player'] = player.find("a").text.strip()
-                            player_injury = player.find("span",class_="lineup__inj")
-                            if player_injury:
+                            player_status = player.find("span",class_="lineup__inj")
+                            if injury:
                                 new_row['playing'] = "NO"
+                            elif player_status:
+                                new_row['playing'] = "MAYBE"
                             else:
                                 new_row['playing'] = "YES"
+
 
                             new_row.update(row)
                             self.lineup_rows.append(new_row)
 
                         elif not row['status']:
                             row['status'] = player.text.strip()
-       
+
+                        elif player.text.lower().strip() == "injuries":
+                            injury = True
+
     def export_as(self,kind):
         '''
         Export scraped lineups data as a csv/json
         '''
 
-        filename = datetime.now().strftime(f"%Y-%m-%d_{self.league.lower()}_rotowire")
+        league = self.league.lower().replace(" ","_")
+        filename = datetime.now().strftime(f"%Y-%m-%d_{league}_rotowire")
         if kind == "csv":
             filename = filename+".csv"
             df = pd.DataFrame(self.lineup_rows)
             columns = ['scraping_timestamp','league','date','time','home','away','status','team','position','player','playing']
             df = df[columns]
-            df.to_csv(filename)
+            df.to_csv(filename,index=False)
         elif kind == "json":
             filename = filename+".json"
             json.dump(
@@ -90,4 +96,13 @@ class Rotowire:
             )
 
         if len(self.lineup_rows) > 0:
-            print("lineups data has been exported as",filename)
+            print("lineups data has been exported as",filename,"\n")
+
+if "__main__" == __name__:
+
+    rw = Rotowire()
+
+    url = "https://www.rotowire.com/soccer/lineups.php?league=LIGA"
+
+    rw.get(url)
+    rw.export_as("csv")
