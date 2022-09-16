@@ -86,11 +86,3 @@ class Rotowire:
 
         if len(self.lineup_rows) > 0:
             print("lineups data has been exported as",filename)
-
-if "__main__" == __name__:
-
-    url = "https://www.rotowire.com/soccer/lineups.php"
-
-    rw = Rotowire()
-    rw.get(url)
-    rw.export_as("csv")
