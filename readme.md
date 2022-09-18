@@ -18,4 +18,4 @@ rw.get(url)
 rw.save()
 ```
 
-Import the Rotowire class from [rotowire.py](rotowire.py). Use `get` method to scrape the lineups data right away from the url then configure the output file format. There are two kind of output format: csv and json.
+Import the Rotowire class from [rotowire.py](rotowire.py). Use `get` method to scrape the lineups data right away from the url then save it as csv using `save` method.
