@@ -3,8 +3,17 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import requests
 import json
+import os
 
 class Rotowire:
+
+    def __init__(self) -> None:
+        self.filename = "rotowire.csv"
+        self.lineup_rows = []
+        if not os.path.exists(self.filename):
+            self.prev_data = []
+        else:
+            self.prev_data = pd.read_csv(self.filename)
 
     def get(self,url) -> None:
         '''
@@ -26,7 +35,6 @@ class Rotowire:
         )
 
         # fint the lineups
-        self.lineup_rows = []
         lineups = html.find("div",class_="lineups").find_all("div",class_="lineup")
         for lineup in lineups:
             if all([x not in lineup['class'] for x in ['is-ad','is-tools']]):
@@ -64,7 +72,6 @@ class Rotowire:
                             else:
                                 new_row['playing'] = "YES"
 
-
                             new_row.update(row)
                             self.lineup_rows.append(new_row)
 
@@ -74,35 +81,14 @@ class Rotowire:
                         elif player.text.lower().strip() == "injuries":
                             injury = True
 
-    def export_as(self,kind):
+    def save(self):
         '''
         Export scraped lineups data as a csv/json
         '''
 
-        league = self.league.lower().replace(" ","_")
-        filename = datetime.now().strftime(f"%Y-%m-%d_{league}_rotowire")
-        if kind == "csv":
-            filename = filename+".csv"
-            df = pd.DataFrame(self.lineup_rows)
-            columns = ['scraping_timestamp','league','date','time','home','away','status','team','position','player','playing']
-            df = df[columns]
-            df.to_csv(filename,index=False)
-        elif kind == "json":
-            filename = filename+".json"
-            json.dump(
-                self.lineup_rows,
-                open(filename),
-                indent=4
-            )
-
-        if len(self.lineup_rows) > 0:
-            print("lineups data has been exported as",filename,"\n")
-
-if "__main__" == __name__:
-
-    rw = Rotowire()
-
-    url = "https://www.rotowire.com/soccer/lineups.php?league=LIGA"
-
-    rw.get(url)
-    rw.export_as("csv")
+        df = pd.DataFrame(self.lineup_rows)
+        columns = ['scraping_timestamp','league','date','time','home','away','status','team','position','player','playing']
+        df = df[columns]
+        if len(self.prev_data) > 0:
+            df = pd.concat([self.prev_data,df])
+        df.to_csv(self.filename,index=False)
