@@ -1,6 +1,6 @@
 # Rotowire Scraping Script
 
-Rotowire lineups scraping script written in Python
+Rotowire lineups scraping is collecting lineups data, especially for Football games. The script will go through the list of URL, collecting the data and save it as one output file.
 
 ### Install dependencies
 ```
