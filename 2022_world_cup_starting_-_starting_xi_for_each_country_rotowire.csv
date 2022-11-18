@@ -1,0 +1,675 @@
+scraping_timestamp,league,date,time,home,away,status,team,position,player,playing
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Troyes,F/M,Mama Balde,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Troyes,G,G. Gallon,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Troyes,M,L. Agoume,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Troyes,D,T. Balde,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Troyes,M,F. Tardieu,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Nantes,D,N. Pallois,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Nantes,M/D,F. Centonze,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Nantes,D,Fabio,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Troyes,Nantes,Unknown Lineup,Nantes,D,C. Traore,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Reims,D,T. De Smet,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Reims,D,I. Diakite,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Reims,M,V. Berisha,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Reims,D,Maxime Busi,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Reims,D,A. Gravillon,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Reims,M,Dion Lopy,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Reims,F,Kaj Sierhuis,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Rennes,D,B. Meling,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Rennes,D,Warmed Omari,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Reims,Rennes,Unknown Lineup,Rennes,M,B. Santamaria,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Brest,Lyon,Unknown Lineup,Brest,D,Jere Uronen,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Brest,Lyon,Unknown Lineup,Lyon,D,J. Boateng,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Brest,Lyon,Unknown Lineup,Lyon,G,J. Pollersbeck,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Brest,Lyon,Unknown Lineup,Lyon,F/M,J. Reine-Adelaide,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Brest,Lyon,Unknown Lineup,Lyon,M,C. Tolisso,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Paris Saint-Germain,Strasbourg,Unknown Lineup,Paris Saint-Germain,D,Marquinhos,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Paris Saint-Germain,Strasbourg,Unknown Lineup,Paris Saint-Germain,D,T. Pembele,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Paris Saint-Germain,Strasbourg,Unknown Lineup,Paris Saint-Germain,M,Fabian Ruiz,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Paris Saint-Germain,Strasbourg,Unknown Lineup,Strasbourg,D,Colin Dagba,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Paris Saint-Germain,Strasbourg,Unknown Lineup,Strasbourg,M/D,I. Sissoko,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Marseille,Toulouse,Unknown Lineup,Marseille,D,Eric Bailly,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Marseille,Toulouse,Unknown Lineup,Marseille,M,Amine Harit,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Marseille,Toulouse,Unknown Lineup,Marseille,F/M,Gerson,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Marseille,Toulouse,Unknown Lineup,Toulouse,F/M,Z. Aboukhlal,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Marseille,Toulouse,Unknown Lineup,Toulouse,D,M. Desler,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Marseille,Toulouse,Unknown Lineup,Toulouse,F,Rhys Healey,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Marseille,Toulouse,Unknown Lineup,Toulouse,D,Kevin Keben,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Nice,Lens,Unknown Lineup,Nice,G,Marcin Bulka,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Nice,Lens,Unknown Lineup,Nice,F,Andy Delort,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Nice,Lens,Unknown Lineup,Nice,F/M,Sofiane Diop,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Nice,Lens,Unknown Lineup,Nice,M,Mario Lemina,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Nice,Lens,Unknown Lineup,Nice,M,M. Schneiderlin,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Nice,Lens,Unknown Lineup,Lens,D,M. Haidara,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Nice,Lens,Unknown Lineup,Lens,F,Adam Buksa,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Nice,Lens,Unknown Lineup,Lens,M,Jimmy Cabot,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Lorient,Montpellier,Unknown Lineup,Lorient,M,L. Abergel,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Lorient,Montpellier,Unknown Lineup,Lorient,G,Yvon Mvogo,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Lorient,Montpellier,Unknown Lineup,Montpellier,G,D. Bertaud,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Lorient,Montpellier,Unknown Lineup,Montpellier,D,Pedro Mendes,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Lorient,Montpellier,Unknown Lineup,Montpellier,D,T. Sainte-Luce,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Lorient,Montpellier,Unknown Lineup,Montpellier,D,Enzo Tchato,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Clermont Foot,Lille,Unknown Lineup,Clermont Foot,D,Neto Borges,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Clermont Foot,Lille,Unknown Lineup,Clermont Foot,F/M,Jodel Dossou,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Clermont Foot,Lille,Unknown Lineup,Clermont Foot,D,Arial Mendy,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Clermont Foot,Lille,Unknown Lineup,Clermont Foot,D,M. Zeffane,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Clermont Foot,Lille,Unknown Lineup,Lille,M,C. Baleba Noom Quomah,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Clermont Foot,Lille,Unknown Lineup,Lille,M,Andre Gomes,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Clermont Foot,Lille,Unknown Lineup,Lille,D,Ismaily,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Clermont Foot,Lille,Unknown Lineup,Lille,D,G. Gudmundsson,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,AJ Auxerre,Monaco,Unknown Lineup,AJ Auxerre,D,A. Coeff,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,AJ Auxerre,Monaco,Unknown Lineup,AJ Auxerre,D,J. Jeanvier,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,AJ Auxerre,Monaco,Unknown Lineup,AJ Auxerre,D,T. Pellenard,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,AJ Auxerre,Monaco,Unknown Lineup,Monaco,F,W. Ben Yedder,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Ajaccio,M,C. Avinel,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Ajaccio,D,C. Vidal,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Ajaccio,D,F. Mayembo,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Angers,F/M,S. Boufal,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Angers,M/D,B. Mendy,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Angers,M,H. Abdelli,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Angers,M,I. Amadou,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Angers,F,Lois Diony,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-12-28,12:00 AM ET,Ajaccio,Angers,Unknown Lineup,Angers,M,U. Eneme Ella,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Toulouse,Ajaccio,Unknown Lineup,Toulouse,F/M,Z. Aboukhlal,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Toulouse,Ajaccio,Unknown Lineup,Toulouse,D,M. Desler,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Toulouse,Ajaccio,Unknown Lineup,Toulouse,F,Rhys Healey,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Toulouse,Ajaccio,Unknown Lineup,Toulouse,D,Kevin Keben,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Toulouse,Ajaccio,Unknown Lineup,Ajaccio,M,C. Avinel,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Toulouse,Ajaccio,Unknown Lineup,Ajaccio,D,C. Vidal,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Toulouse,Ajaccio,Unknown Lineup,Ajaccio,D,F. Mayembo,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Rennes,Nice,Unknown Lineup,Rennes,D,B. Meling,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Rennes,Nice,Unknown Lineup,Rennes,D,Warmed Omari,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Rennes,Nice,Unknown Lineup,Rennes,M,B. Santamaria,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Rennes,Nice,Unknown Lineup,Nice,G,Marcin Bulka,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Rennes,Nice,Unknown Lineup,Nice,F,Andy Delort,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Rennes,Nice,Unknown Lineup,Nice,F/M,Sofiane Diop,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Rennes,Nice,Unknown Lineup,Nice,M,Mario Lemina,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Rennes,Nice,Unknown Lineup,Nice,M,M. Schneiderlin,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Strasbourg,Troyes,Unknown Lineup,Strasbourg,D,Colin Dagba,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Strasbourg,Troyes,Unknown Lineup,Strasbourg,M/D,I. Sissoko,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Strasbourg,Troyes,Unknown Lineup,Troyes,F/M,Mama Balde,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Strasbourg,Troyes,Unknown Lineup,Troyes,G,G. Gallon,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Strasbourg,Troyes,Unknown Lineup,Troyes,M,L. Agoume,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Strasbourg,Troyes,Unknown Lineup,Troyes,D,T. Balde,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Strasbourg,Troyes,Unknown Lineup,Troyes,M,F. Tardieu,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lens,Paris Saint-Germain,Unknown Lineup,Lens,D,M. Haidara,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lens,Paris Saint-Germain,Unknown Lineup,Lens,F,Adam Buksa,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lens,Paris Saint-Germain,Unknown Lineup,Lens,M,Jimmy Cabot,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lens,Paris Saint-Germain,Unknown Lineup,Paris Saint-Germain,D,Marquinhos,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lens,Paris Saint-Germain,Unknown Lineup,Paris Saint-Germain,D,T. Pembele,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lens,Paris Saint-Germain,Unknown Lineup,Paris Saint-Germain,M,Fabian Ruiz,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lyon,Clermont Foot,Unknown Lineup,Lyon,D,J. Boateng,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lyon,Clermont Foot,Unknown Lineup,Lyon,G,J. Pollersbeck,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lyon,Clermont Foot,Unknown Lineup,Lyon,F/M,J. Reine-Adelaide,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lyon,Clermont Foot,Unknown Lineup,Lyon,M,C. Tolisso,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lyon,Clermont Foot,Unknown Lineup,Clermont Foot,D,Neto Borges,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lyon,Clermont Foot,Unknown Lineup,Clermont Foot,F/M,Jodel Dossou,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lyon,Clermont Foot,Unknown Lineup,Clermont Foot,D,Arial Mendy,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lyon,Clermont Foot,Unknown Lineup,Clermont Foot,D,M. Zeffane,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Montpellier,Marseille,Unknown Lineup,Montpellier,G,D. Bertaud,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Montpellier,Marseille,Unknown Lineup,Montpellier,D,Pedro Mendes,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Montpellier,Marseille,Unknown Lineup,Montpellier,D,T. Sainte-Luce,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Montpellier,Marseille,Unknown Lineup,Montpellier,D,Enzo Tchato,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Montpellier,Marseille,Unknown Lineup,Marseille,D,Eric Bailly,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Montpellier,Marseille,Unknown Lineup,Marseille,M,Amine Harit,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Montpellier,Marseille,Unknown Lineup,Marseille,F/M,Gerson,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Lille,M,C. Baleba Noom Quomah,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Lille,M,Andre Gomes,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Lille,D,Ismaily,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Lille,D,G. Gudmundsson,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Reims,D,T. De Smet,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Reims,D,I. Diakite,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Reims,M,V. Berisha,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Reims,D,Maxime Busi,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Reims,D,A. Gravillon,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Reims,M,Dion Lopy,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Lille,Reims,Unknown Lineup,Reims,F,Kaj Sierhuis,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Nantes,AJ Auxerre,Unknown Lineup,Nantes,D,N. Pallois,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Nantes,AJ Auxerre,Unknown Lineup,Nantes,M/D,F. Centonze,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Nantes,AJ Auxerre,Unknown Lineup,Nantes,D,Fabio,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Nantes,AJ Auxerre,Unknown Lineup,Nantes,D,C. Traore,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Nantes,AJ Auxerre,Unknown Lineup,AJ Auxerre,D,A. Coeff,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Nantes,AJ Auxerre,Unknown Lineup,AJ Auxerre,D,J. Jeanvier,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Nantes,AJ Auxerre,Unknown Lineup,AJ Auxerre,D,T. Pellenard,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Angers,Lorient,Unknown Lineup,Angers,F/M,S. Boufal,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Angers,Lorient,Unknown Lineup,Angers,M/D,B. Mendy,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Angers,Lorient,Unknown Lineup,Angers,M,H. Abdelli,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Angers,Lorient,Unknown Lineup,Angers,M,I. Amadou,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Angers,Lorient,Unknown Lineup,Angers,F,Lois Diony,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Angers,Lorient,Unknown Lineup,Angers,M,U. Eneme Ella,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Angers,Lorient,Unknown Lineup,Lorient,M,L. Abergel,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Angers,Lorient,Unknown Lineup,Lorient,G,Yvon Mvogo,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Monaco,Brest,Unknown Lineup,Monaco,F,W. Ben Yedder,NO
+2022-11-18 17:56:17,2022 World Cup Starting - Starting XI For Each Country,2022-01-01,12:00 AM ET,Monaco,Brest,Unknown Lineup,Brest,D,Jere Uronen,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Cadiz,Almería,Unknown Lineup,Cadiz,D,Victor Chust,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Cadiz,Almería,Unknown Lineup,Cadiz,D,M. Mbaye,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Cadiz,Almería,Unknown Lineup,Cadiz,D,J. Zaldua,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Cadiz,Almería,Unknown Lineup,Almería,D,Rodrigo Ely,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Cadiz,Almería,Unknown Lineup,Almería,D,Ivan Martos,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Cadiz,Almería,Unknown Lineup,Almería,F,M. Milovanovic,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Cadiz,Almería,Unknown Lineup,Almería,D,Juanjo Nieto,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Villarreal,F/M,G. Lo Celso,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Villarreal,D,A. Pedraza,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Valencia,F,E. Cavani,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Valencia,D,Jose Gaya,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Valencia,M/D,H. Guillamon Sanmartin,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Valencia,F/M,S. Castillejo,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Valencia,D,M. Diakhaby,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Valencia,G,J. Domenech,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Villarreal,Valencia,Unknown Lineup,Valencia,M,Ilaix Moriba,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Valladolid,Real Madrid,Unknown Lineup,Valladolid,D,S. Escudero,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Valladolid,Real Madrid,Unknown Lineup,Valladolid,M,M. Malsa,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Valladolid,Real Madrid,Unknown Lineup,Valladolid,F/M,Kenedy,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Valladolid,Real Madrid,Unknown Lineup,Valladolid,D,Luis Perez,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Valladolid,Real Madrid,Unknown Lineup,Valladolid,D,Javi Sanchez,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Valladolid,Real Madrid,Unknown Lineup,Valladolid,F/M,Anuar,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Valladolid,Real Madrid,Unknown Lineup,Real Madrid,F,K. Benzema,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Valladolid,Real Madrid,Unknown Lineup,Real Madrid,D,A. Rudiger,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Real Sociedad,M,A. Barrenetxea,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Real Sociedad,F,M. Cho,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Real Sociedad,F,C. Fernandez Luna,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Real Sociedad,M,M. Merquelanz,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Real Sociedad,D,Aihen Munoz,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Real Sociedad,F/M,M. Oyarzabal,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Real Sociedad,F,Umar Sadiq,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Osasuna,F,Ez Abde,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Real Sociedad,Osasuna,Unknown Lineup,Osasuna,F,Kike Saverio,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Betis,Athletic,Unknown Lineup,Betis,M/D,E. Gonzalez Estrada,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Betis,Athletic,Unknown Lineup,Betis,G,C. Bravo,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Betis,Athletic,Unknown Lineup,Betis,M,V. Camarasa,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Betis,Athletic,Unknown Lineup,Betis,D,Luiz Felipe,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Betis,Athletic,Unknown Lineup,Betis,F/M,Juanmi,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Betis,Athletic,Unknown Lineup,Betis,M,Joaquin,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Betis,Athletic,Unknown Lineup,Athletic,M,Dani Garcia,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Girona,D,Yan Couto,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Girona,F/M,Borja Garcia,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Girona,M/D,M. Gutierrez,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Girona,M,Y. Herrera,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Girona,F/M,Reinier,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Girona,M,I. Kebe,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Girona,D,Juanpe,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Girona,M,Samu Saiz,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Rayo Vallecano,F,R. de Tomas,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Rayo Vallecano,F,A. Martin Garcia,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Girona,Rayo Vallecano,Unknown Lineup,Rayo Vallecano,F/M,J. Pozo,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Getafe,Mallorca,Unknown Lineup,Getafe,D,Jordan Amavi,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Getafe,Mallorca,Unknown Lineup,Getafe,D,F. Angileri,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Getafe,Mallorca,Unknown Lineup,Getafe,M,M. Arambarri,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Getafe,Mallorca,Unknown Lineup,Mallorca,M,Iddrisu Baba,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Celta Vigo,M,L. de la Torre,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Celta Vigo,F,J. Larsen,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Celta Vigo,D,Hugo Mallo,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Celta Vigo,M,A. Solari,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Celta Vigo,M,Denis Suarez,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Sevilla,D,Marcos Acuna,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Sevilla,F/M,Papu Gomez,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Sevilla,D,T. Nianzou Kouassi,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Sevilla,M/D,J. Corona,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Celta Vigo,Sevilla,Unknown Lineup,Sevilla,D,Marcao,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Barcelona,D,R. Araujo,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Barcelona,D,Jules Kounde,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Barcelona,G,M. ter Stegen,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Barcelona,F,M. Depay,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Barcelona,M,F. Kessie,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Barcelona,M/D,S. Roberto,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Espanyol,M,V. de Souza Costa,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Espanyol,D,A. Pedrosa,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Barcelona,Espanyol,Unknown Lineup,Espanyol,D,R. Sanchez Saez,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Atlético Madrid,M/D,Y. Carrasco,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Atlético Madrid,M/D,M. Llorente,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Atlético Madrid,F,A. Morata,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Atlético Madrid,M/D,G. Kondogbia,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Atlético Madrid,M/D,S. Reguilon,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Elche,F,Jony Alamo,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Elche,F/M,Fidel,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Elche,D,F. Fernandez,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Elche,D,H. Palacios,NO
+2022-11-18 17:56:21,2022 World Cup Starting - Starting XI For Each Country,2022-12-31 00:00:00,12:00 AM ET,Atlético Madrid,Elche,Unknown Lineup,Elche,M,J. Pastore,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Sassuolo,Sampdoria,Unknown Lineup,Sassuolo,F,G. Defrel,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Sassuolo,Sampdoria,Unknown Lineup,Sassuolo,D,Mert Muldur,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Sassuolo,Sampdoria,Unknown Lineup,Sampdoria,F/M,A. Sabiri,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Sassuolo,Sampdoria,Unknown Lineup,Sampdoria,D,Andrea Conti,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Sassuolo,Sampdoria,Unknown Lineup,Sampdoria,F,M. De Luca,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Sassuolo,Sampdoria,Unknown Lineup,Sampdoria,F/M,I. Pussetto,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Sassuolo,Sampdoria,Unknown Lineup,Sampdoria,M,Harry Winks,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,Salernitana,F/M,A. Candreva,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,Salernitana,D,N. Gyomber,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,Salernitana,M/D,P. Mazzocchi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,AC Milan,M,S. Tonali,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,AC Milan,D,D. Calabria,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,AC Milan,M/D,A. Florenzi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,AC Milan,F,Z. Ibrahimovic,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,AC Milan,G,Mike Maignan,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,AC Milan,F/M,J. Messias,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,6:30 AM ET,Salernitana,AC Milan,Unknown Lineup,AC Milan,F/M,A. Saelemaekers,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Torino,Verona,Unknown Lineup,Torino,M,Sasa Lukic,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Torino,Verona,Unknown Lineup,Torino,D,A. Buongiorno,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Torino,Verona,Unknown Lineup,Torino,M,Ola Aina,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Torino,Verona,Unknown Lineup,Torino,D,Perr Schuurs,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Torino,Verona,Unknown Lineup,Verona,D,Koray Gunter,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Torino,Verona,Unknown Lineup,Verona,D,D. Coppola,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Torino,Verona,Unknown Lineup,Verona,M/D,M. Faraoni,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Torino,Verona,Unknown Lineup,Verona,F,R. Piccoli,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Spezia,Atalanta,Unknown Lineup,Spezia,G,B. Dragowski,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Spezia,Atalanta,Unknown Lineup,Spezia,M,V. Kovalenko,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Spezia,Atalanta,Unknown Lineup,Spezia,M/D,A. Reca,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Spezia,Atalanta,Unknown Lineup,Atalanta,M/D,M. De Roon,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Spezia,Atalanta,Unknown Lineup,Atalanta,F,Luis Muriel,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Spezia,Atalanta,Unknown Lineup,Atalanta,D,Rafael Toloi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,8:30 AM ET,Spezia,Atalanta,Unknown Lineup,Atalanta,M/D,D. Zappacosta,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Lecce,Lazio,Unknown Lineup,Lecce,D,K. Dermaku,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Lecce,Lazio,Unknown Lineup,Lecce,M/D,G. Pezzella,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Lecce,Lazio,Unknown Lineup,Lazio,M/D,M. Fares,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Lecce,Lazio,Unknown Lineup,Lazio,D,Patric,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Lecce,Lazio,Unknown Lineup,Lazio,F,C. Immobile,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Lecce,Lazio,Unknown Lineup,Lazio,D,M. Lazzari,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Lecce,Lazio,Unknown Lineup,Lazio,F/M,M. Zaccagni,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Roma,Bologna,Unknown Lineup,Roma,M,E. Darboe,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Roma,Bologna,Unknown Lineup,Roma,M/D,R. Karsdorp,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Roma,Bologna,Unknown Lineup,Roma,M/D,L. Spinazzola,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Roma,Bologna,Unknown Lineup,Roma,M,G. Wijnaldum,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Roma,Bologna,Unknown Lineup,Bologna,D,K. Bonifazi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,10:30 AM ET,Roma,Bologna,Unknown Lineup,Bologna,M/D,A. Cambiaso,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Fiorentina,Monza,Unknown Lineup,Fiorentina,M,S. Zurkowski,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Fiorentina,Monza,Unknown Lineup,Fiorentina,M,M. Benassi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Fiorentina,Monza,Unknown Lineup,Fiorentina,M,G. Castrovilli,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Fiorentina,Monza,Unknown Lineup,Fiorentina,D,Dodo,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Fiorentina,Monza,Unknown Lineup,Fiorentina,F/M,N. Gonzalez,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Fiorentina,Monza,Unknown Lineup,Fiorentina,F/M,R. Sottil,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Fiorentina,Monza,Unknown Lineup,Monza,D,Pablo Mari,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Fiorentina,Monza,Unknown Lineup,Monza,M,S. Sensi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Cremonese,D,V. Chiriches,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Cremonese,G,Andrei Radu,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,F/M,Filip Kostic,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,M,W. McKennie,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,F,D. Vlahovic,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,F/M,Marley Ake,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,F/M,F. Andrade Sanches Correia,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,D,M. De Sciglio,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,F,S. Iling-Junior,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,F,Kaio Jorge,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,12:30 PM ET,Cremonese,Juventus,Unknown Lineup,Juventus,M,Paul Pogba,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Inter Milan,M/D,D. Dumfries,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Inter Milan,F,R. Lukaku,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Inter Milan,F,J. Correa,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Inter Milan,D,D. D'Ambrosio,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Inter Milan,M/D,M. Darmian,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Inter Milan,M/D,Dalbert,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Napoli,F/M,K. Kvaratskhelia,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Napoli,D,A. Rrahmani,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Inter Milan,Napoli,Unknown Lineup,Napoli,G,S. Sirigu,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Udinese,M/D,I. Destiny Udogie,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Udinese,F,G. Deulofeu,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Udinese,M,J. Makengo,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Udinese,M/D,Adam Masina,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Udinese,D,R. Nascimento Fraga,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Udinese,D,B. Nuytinck,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Empoli,M,T. Baldanzi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Empoli,F,M. Destro,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-04 00:00:00,2:45 PM ET,Udinese,Empoli,Unknown Lineup,Empoli,D,L. Tonelli,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,9:00 AM ET,Fiorentina,Sassuolo,Unknown Lineup,Fiorentina,M,S. Zurkowski,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,9:00 AM ET,Fiorentina,Sassuolo,Unknown Lineup,Fiorentina,M,M. Benassi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,9:00 AM ET,Fiorentina,Sassuolo,Unknown Lineup,Fiorentina,M,G. Castrovilli,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,9:00 AM ET,Fiorentina,Sassuolo,Unknown Lineup,Fiorentina,D,Dodo,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,9:00 AM ET,Fiorentina,Sassuolo,Unknown Lineup,Fiorentina,F/M,N. Gonzalez,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,9:00 AM ET,Fiorentina,Sassuolo,Unknown Lineup,Fiorentina,F/M,R. Sottil,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,9:00 AM ET,Fiorentina,Sassuolo,Unknown Lineup,Sassuolo,F,G. Defrel,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,9:00 AM ET,Fiorentina,Sassuolo,Unknown Lineup,Sassuolo,D,Mert Muldur,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,F/M,Filip Kostic,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,M,W. McKennie,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,F,D. Vlahovic,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,F/M,Marley Ake,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,F/M,F. Andrade Sanches Correia,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,D,M. De Sciglio,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,F,S. Iling-Junior,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,F,Kaio Jorge,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Juventus,M,Paul Pogba,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Udinese,M/D,I. Destiny Udogie,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Udinese,F,G. Deulofeu,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Udinese,M,J. Makengo,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Udinese,M/D,Adam Masina,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Udinese,D,R. Nascimento Fraga,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,12:00 PM ET,Juventus,Udinese,Unknown Lineup,Udinese,D,B. Nuytinck,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,2:45 PM ET,Monza,Inter Milan,Unknown Lineup,Monza,D,Pablo Mari,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,2:45 PM ET,Monza,Inter Milan,Unknown Lineup,Monza,M,S. Sensi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,2:45 PM ET,Monza,Inter Milan,Unknown Lineup,Inter Milan,M/D,D. Dumfries,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,2:45 PM ET,Monza,Inter Milan,Unknown Lineup,Inter Milan,F,R. Lukaku,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,2:45 PM ET,Monza,Inter Milan,Unknown Lineup,Inter Milan,F,J. Correa,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,2:45 PM ET,Monza,Inter Milan,Unknown Lineup,Inter Milan,D,D. D'Ambrosio,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,2:45 PM ET,Monza,Inter Milan,Unknown Lineup,Inter Milan,M/D,M. Darmian,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-07 00:00:00,2:45 PM ET,Monza,Inter Milan,Unknown Lineup,Inter Milan,M/D,Dalbert,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,6:30 AM ET,Salernitana,Torino,Unknown Lineup,Salernitana,F/M,A. Candreva,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,6:30 AM ET,Salernitana,Torino,Unknown Lineup,Salernitana,D,N. Gyomber,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,6:30 AM ET,Salernitana,Torino,Unknown Lineup,Salernitana,M/D,P. Mazzocchi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,6:30 AM ET,Salernitana,Torino,Unknown Lineup,Torino,M,Sasa Lukic,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,6:30 AM ET,Salernitana,Torino,Unknown Lineup,Torino,D,A. Buongiorno,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,6:30 AM ET,Salernitana,Torino,Unknown Lineup,Torino,M,Ola Aina,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,6:30 AM ET,Salernitana,Torino,Unknown Lineup,Torino,D,Perr Schuurs,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Lazio,Empoli,Unknown Lineup,Lazio,M/D,M. Fares,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Lazio,Empoli,Unknown Lineup,Lazio,D,Patric,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Lazio,Empoli,Unknown Lineup,Lazio,F,C. Immobile,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Lazio,Empoli,Unknown Lineup,Lazio,D,M. Lazzari,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Lazio,Empoli,Unknown Lineup,Lazio,F/M,M. Zaccagni,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Lazio,Empoli,Unknown Lineup,Empoli,M,T. Baldanzi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Lazio,Empoli,Unknown Lineup,Empoli,F,M. Destro,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Lazio,Empoli,Unknown Lineup,Empoli,D,L. Tonelli,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Spezia,Lecce,Unknown Lineup,Spezia,G,B. Dragowski,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Spezia,Lecce,Unknown Lineup,Spezia,M,V. Kovalenko,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Spezia,Lecce,Unknown Lineup,Spezia,M/D,A. Reca,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Spezia,Lecce,Unknown Lineup,Lecce,D,K. Dermaku,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,9:00 AM ET,Spezia,Lecce,Unknown Lineup,Lecce,M/D,G. Pezzella,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,12:00 PM ET,Sampdoria,Napoli,Unknown Lineup,Sampdoria,F/M,A. Sabiri,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,12:00 PM ET,Sampdoria,Napoli,Unknown Lineup,Sampdoria,D,Andrea Conti,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,12:00 PM ET,Sampdoria,Napoli,Unknown Lineup,Sampdoria,F,M. De Luca,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,12:00 PM ET,Sampdoria,Napoli,Unknown Lineup,Sampdoria,F/M,I. Pussetto,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,12:00 PM ET,Sampdoria,Napoli,Unknown Lineup,Sampdoria,M,Harry Winks,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,12:00 PM ET,Sampdoria,Napoli,Unknown Lineup,Napoli,F/M,K. Kvaratskhelia,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,12:00 PM ET,Sampdoria,Napoli,Unknown Lineup,Napoli,D,A. Rrahmani,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,12:00 PM ET,Sampdoria,Napoli,Unknown Lineup,Napoli,G,S. Sirigu,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,AC Milan,M,S. Tonali,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,AC Milan,D,D. Calabria,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,AC Milan,M/D,A. Florenzi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,AC Milan,F,Z. Ibrahimovic,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,AC Milan,G,Mike Maignan,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,AC Milan,F/M,J. Messias,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,AC Milan,F/M,A. Saelemaekers,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,Roma,M,E. Darboe,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,Roma,M/D,R. Karsdorp,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,Roma,M/D,L. Spinazzola,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-08 00:00:00,2:45 PM ET,AC Milan,Roma,Unknown Lineup,Roma,M,G. Wijnaldum,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,12:30 PM ET,Verona,Cremonese,Unknown Lineup,Verona,D,Koray Gunter,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,12:30 PM ET,Verona,Cremonese,Unknown Lineup,Verona,D,D. Coppola,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,12:30 PM ET,Verona,Cremonese,Unknown Lineup,Verona,M/D,M. Faraoni,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,12:30 PM ET,Verona,Cremonese,Unknown Lineup,Verona,F,R. Piccoli,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,12:30 PM ET,Verona,Cremonese,Unknown Lineup,Cremonese,D,V. Chiriches,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,12:30 PM ET,Verona,Cremonese,Unknown Lineup,Cremonese,G,Andrei Radu,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,2:45 PM ET,Bologna,Atalanta,Unknown Lineup,Bologna,D,K. Bonifazi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,2:45 PM ET,Bologna,Atalanta,Unknown Lineup,Bologna,M/D,A. Cambiaso,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,2:45 PM ET,Bologna,Atalanta,Unknown Lineup,Atalanta,M/D,M. De Roon,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,2:45 PM ET,Bologna,Atalanta,Unknown Lineup,Atalanta,F,Luis Muriel,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,2:45 PM ET,Bologna,Atalanta,Unknown Lineup,Atalanta,D,Rafael Toloi,NO
+2022-11-18 17:56:24,2022 World Cup Starting - Starting XI For Each Country,2022-01-09 00:00:00,2:45 PM ET,Bologna,Atalanta,Unknown Lineup,Atalanta,M/D,D. Zappacosta,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,RB Leipzig,D,Abdou Diallo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,RB Leipzig,G,P. Gulacsi,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,RB Leipzig,M,K. Laimer,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,RB Leipzig,F/M,C. Nkunku,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,RB Leipzig,D,M. Simakan,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,RB Leipzig,F/M,Timo Werner,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,Bayern Munich,M/D,A. Davies,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,Bayern Munich,F/M,T. Muller,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,Bayern Munich,F,Sadio Mane,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-20 00:00:00,2:30 PM ET,RB Leipzig,Bayern Munich,Unknown Lineup,Bayern Munich,D,Bouna Sarr,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,Union Berlin,G,F. Ronnow,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,Union Berlin,M,Rani Khedira,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,Union Berlin,D,Diogo Leite,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,Union Berlin,M,K. Mohwald,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,Union Berlin,F/M,A. Schafer,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,1899 Hoffenheim,F,F. Asllani,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,1899 Hoffenheim,F/M,Ihlas Bebou,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,1899 Hoffenheim,F,Munas Dabbur,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,1899 Hoffenheim,D,B. Hubner,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,1899 Hoffenheim,D,S. Nsoki,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,1899 Hoffenheim,G,Luca Philipp,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,1899 Hoffenheim,M,G. Promel,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Union Berlin,1899 Hoffenheim,Unknown Lineup,1899 Hoffenheim,M,S. Rudy,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,VfB Stuttgart,M,Wataru Endo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,VfB Stuttgart,M/D,Borna Sosa,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,VfB Stuttgart,D,K. Mavropanos,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,VfB Stuttgart,M,Silas,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,VfB Stuttgart,M,N. Nartey,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,VfB Stuttgart,D,P. Stenzel,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,FSV Mainz 05,F,K. Onisiwo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,FSV Mainz 05,D,M. Leitsch,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfB Stuttgart,FSV Mainz 05,Unknown Lineup,FSV Mainz 05,F,M. Mustapha,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,VfL Bochum,M,J. Goralski,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,VfL Bochum,G,Paul Grave,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,VfL Bochum,D,D. Heintz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,VfL Bochum,G,M. Johansson,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,Hertha BSC Berlin,D,M. Plattenhardt,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,Hertha BSC Berlin,F/M,D. Lukebakio,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,Hertha BSC Berlin,D,M. Dardai,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,Hertha BSC Berlin,F,S. Jovetic,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,Hertha BSC Berlin,F/M,J. Ngankam,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Bochum,Hertha BSC Berlin,Unknown Lineup,Hertha BSC Berlin,F,Kelian Nsona,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,G,K. Casteels,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,F,Jonas Wind,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,F/M,K. Paredes,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,F/M,J. Brekalo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,M,B. Franjic,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,F,Max Kruse,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,F,O. Marmoush,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,F/M,Lukas Nmecha,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,VfL Wolfsburg,F/M,P. Wimmer,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,VfL Wolfsburg,SC Freiburg,Unknown Lineup,SC Freiburg,D,Manuel Gulde,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,Eintracht Frankfurt,M/D,M. Hasebe,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,Eintracht Frankfurt,D,C. Lenz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,Eintracht Frankfurt,M,S. Rode,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,Eintracht Frankfurt,D,Buta,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,FC Schalke 04,M/D,T. Ouwejan,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,FC Schalke 04,D,Leo Greiml,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,FC Schalke 04,D,M. Kaminski,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,FC Schalke 04,D,S. van den Berg,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,9:30 AM ET,Eintracht Frankfurt,FC Schalke 04,Unknown Lineup,FC Schalke 04,M,R. Zalazar,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,1. FC Köln,F,S. Andersson,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,1. FC Köln,F,F. Dietz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,1. FC Köln,F,Tim Lemperle,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,1. FC Köln,F,D. Limnios,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,1. FC Köln,M,D. Ljubicic,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,1. FC Köln,D,B. Schmitz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,1. FC Köln,F,Mark Uth,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,Werder Bremen,D,M. Veljkovic,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,Werder Bremen,M,Felix Agu,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,Werder Bremen,M,Ilia Gruev,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,Werder Bremen,M,J. Mbom,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-21 00:00:00,12:30 PM ET,1. FC Köln,Werder Bremen,Unknown Lineup,Werder Bremen,G,M. Zetterer,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,M/D,T. Meunier,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,F,J. Bynoe-Gittens,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,M,M. Dahoud,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,F,S. Haller,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,D,Mats Hummels,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,F,A. Modeste,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,D,Mateu Morey,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,F/M,Marco Reus,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,D,Tom Rothe,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,Borussia Dortmund,M/D,Marius Wolf,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,M,C. Gruezo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,F,M. Berisha,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,M,N. Dorsch,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,M/D,R. Framberger,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,D,J. Gouweleeuw,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,F,Andre Hahn,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,M/D,M. Pedersen,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,F,N. Sarenren Bazee,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,9:30 AM ET,Borussia Dortmund,FC Augsburg,Unknown Lineup,FC Augsburg,M,T. Strobl,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Mönchengladbach,M,F. Neuhaus,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Mönchengladbach,F,A. Plea,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Mönchengladbach,G,T. Sippel,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Mönchengladbach,M,Hannes Wolf,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Bayer Leverkusen,F/M,S. Azmoun,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Bayer Leverkusen,M,R. Andrich,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Bayer Leverkusen,M,C. Aranguiz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Bayer Leverkusen,D,O. Kossounou,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Bayer Leverkusen,M,Paulinho,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Bayer Leverkusen,F,P. Schick,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-22 00:00:00,11:30 AM ET,Mönchengladbach,Bayer Leverkusen,Unknown Lineup,Bayer Leverkusen,M,F. Wirtz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,FC Schalke 04,M/D,T. Ouwejan,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,FC Schalke 04,D,Leo Greiml,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,FC Schalke 04,D,M. Kaminski,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,FC Schalke 04,D,S. van den Berg,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,FC Schalke 04,M,R. Zalazar,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,RB Leipzig,D,Abdou Diallo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,RB Leipzig,G,P. Gulacsi,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,RB Leipzig,M,K. Laimer,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,RB Leipzig,F/M,C. Nkunku,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,RB Leipzig,D,M. Simakan,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,12:30 PM ET,FC Schalke 04,RB Leipzig,Unknown Lineup,RB Leipzig,F/M,Timo Werner,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,Hertha BSC Berlin,D,M. Plattenhardt,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,Hertha BSC Berlin,F/M,D. Lukebakio,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,Hertha BSC Berlin,D,M. Dardai,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,Hertha BSC Berlin,F,S. Jovetic,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,Hertha BSC Berlin,F/M,J. Ngankam,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,Hertha BSC Berlin,F,Kelian Nsona,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,G,K. Casteels,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,F,Jonas Wind,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,F/M,K. Paredes,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,F/M,J. Brekalo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,M,B. Franjic,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,F,Max Kruse,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,F,O. Marmoush,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,F/M,Lukas Nmecha,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Hertha BSC Berlin,VfL Wolfsburg,Unknown Lineup,VfL Wolfsburg,F/M,P. Wimmer,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,Bayern Munich,M/D,A. Davies,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,Bayern Munich,F/M,T. Muller,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,Bayern Munich,F,Sadio Mane,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,Bayern Munich,D,Bouna Sarr,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,1. FC Köln,F,S. Andersson,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,1. FC Köln,F,F. Dietz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,1. FC Köln,F,Tim Lemperle,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,1. FC Köln,F,D. Limnios,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,1. FC Köln,M,D. Ljubicic,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,1. FC Köln,D,B. Schmitz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,Bayern Munich,1. FC Köln,Unknown Lineup,1. FC Köln,F,Mark Uth,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,1899 Hoffenheim,F,F. Asllani,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,1899 Hoffenheim,F/M,Ihlas Bebou,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,1899 Hoffenheim,F,Munas Dabbur,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,1899 Hoffenheim,D,B. Hubner,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,1899 Hoffenheim,D,S. Nsoki,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,1899 Hoffenheim,G,Luca Philipp,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,1899 Hoffenheim,M,G. Promel,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,1899 Hoffenheim,M,S. Rudy,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,VfB Stuttgart,M,Wataru Endo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,VfB Stuttgart,M/D,Borna Sosa,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,VfB Stuttgart,D,K. Mavropanos,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,VfB Stuttgart,M,Silas,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,VfB Stuttgart,M,N. Nartey,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-24 00:00:00,2:30 PM ET,1899 Hoffenheim,VfB Stuttgart,Unknown Lineup,VfB Stuttgart,D,P. Stenzel,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,FSV Mainz 05,F,K. Onisiwo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,FSV Mainz 05,D,M. Leitsch,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,FSV Mainz 05,F,M. Mustapha,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,M/D,T. Meunier,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,F,J. Bynoe-Gittens,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,M,M. Dahoud,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,F,S. Haller,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,D,Mats Hummels,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,F,A. Modeste,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,D,Mateu Morey,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,F/M,Marco Reus,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,D,Tom Rothe,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,12:30 PM ET,FSV Mainz 05,Borussia Dortmund,Unknown Lineup,Borussia Dortmund,M/D,Marius Wolf,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,SC Freiburg,Eintracht Frankfurt,Unknown Lineup,SC Freiburg,D,Manuel Gulde,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,SC Freiburg,Eintracht Frankfurt,Unknown Lineup,Eintracht Frankfurt,M/D,M. Hasebe,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,SC Freiburg,Eintracht Frankfurt,Unknown Lineup,Eintracht Frankfurt,D,C. Lenz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,SC Freiburg,Eintracht Frankfurt,Unknown Lineup,Eintracht Frankfurt,M,S. Rode,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,SC Freiburg,Eintracht Frankfurt,Unknown Lineup,Eintracht Frankfurt,D,Buta,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,Bayer Leverkusen,F/M,S. Azmoun,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,Bayer Leverkusen,M,R. Andrich,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,Bayer Leverkusen,M,C. Aranguiz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,Bayer Leverkusen,D,O. Kossounou,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,Bayer Leverkusen,M,Paulinho,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,Bayer Leverkusen,F,P. Schick,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,Bayer Leverkusen,M,F. Wirtz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,VfL Bochum,M,J. Goralski,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,VfL Bochum,G,Paul Grave,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,VfL Bochum,D,D. Heintz,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Bayer Leverkusen,VfL Bochum,Unknown Lineup,VfL Bochum,G,M. Johansson,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Werder Bremen,D,M. Veljkovic,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Werder Bremen,M,Felix Agu,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Werder Bremen,M,Ilia Gruev,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Werder Bremen,M,J. Mbom,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Werder Bremen,G,M. Zetterer,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Union Berlin,G,F. Ronnow,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Union Berlin,M,Rani Khedira,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Union Berlin,D,Diogo Leite,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Union Berlin,M,K. Mohwald,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,Werder Bremen,Union Berlin,Unknown Lineup,Union Berlin,F/M,A. Schafer,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,M,C. Gruezo,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,F,M. Berisha,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,M,N. Dorsch,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,M/D,R. Framberger,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,D,J. Gouweleeuw,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,F,Andre Hahn,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,M/D,M. Pedersen,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,F,N. Sarenren Bazee,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,FC Augsburg,M,T. Strobl,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,Mönchengladbach,M,F. Neuhaus,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,Mönchengladbach,F,A. Plea,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,Mönchengladbach,G,T. Sippel,NO
+2022-11-18 17:56:32,2022 World Cup Starting - Starting XI For Each Country,2022-01-25 00:00:00,2:30 PM ET,FC Augsburg,Mönchengladbach,Unknown Lineup,Mönchengladbach,M,Hannes Wolf,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Paris Saint-Germain,D,Marquinhos,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Paris Saint-Germain,D,T. Pembele,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Paris Saint-Germain,M,Fabian Ruiz,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Bayern Munich,M/D,A. Davies,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Bayern Munich,F/M,T. Muller,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Bayern Munich,F,Sadio Mane,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Bayern Munich,D,Bouna Sarr,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,M,S. Tonali,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,D,D. Calabria,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,M/D,A. Florenzi,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,F,Z. Ibrahimovic,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,G,Mike Maignan,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,F/M,J. Messias,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,F/M,A. Saelemaekers,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,Tottenham Hotspur,D,C. Romero,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,Tottenham Hotspur,F/M,H. Son,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,Tottenham Hotspur,M/D,R. Sessegnon,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Club Brugge,Benfica,Unknown Lineup,Club Brugge,D,Clinton Mata,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Club Brugge,Benfica,Unknown Lineup,Club Brugge,M,Mats Rits,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Club Brugge,Benfica,Unknown Lineup,Benfica,F/M,J. Draxler,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Club Brugge,Benfica,Unknown Lineup,Benfica,D,Morato,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,M/D,T. Meunier,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,F,J. Bynoe-Gittens,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,M,M. Dahoud,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,F,S. Haller,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,D,Mats Hummels,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,F,A. Modeste,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,D,Mateu Morey,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,F/M,Marco Reus,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,D,Tom Rothe,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,M/D,Marius Wolf,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M/D,C. Azpilicueta,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M,R. Loftus-Cheek,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,G,K. Arrizabalaga,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M/D,Ben Chilwell,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M,C. Chukwuemeka,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,D,W. Fofana,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M/D,Reece James,NO
+2022-11-18 17:56:50,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M,N'Golo Kante,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Paris Saint-Germain,D,Marquinhos,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Paris Saint-Germain,D,T. Pembele,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Paris Saint-Germain,M,Fabian Ruiz,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Bayern Munich,M/D,A. Davies,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Bayern Munich,F/M,T. Muller,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Bayern Munich,F,Sadio Mane,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,Paris Saint-Germain,Bayern Munich,Unknown Lineup,Bayern Munich,D,Bouna Sarr,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,M,S. Tonali,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,D,D. Calabria,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,M/D,A. Florenzi,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,F,Z. Ibrahimovic,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,G,Mike Maignan,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,F/M,J. Messias,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,AC Milan,F/M,A. Saelemaekers,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,Tottenham Hotspur,D,C. Romero,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,Tottenham Hotspur,F/M,H. Son,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-14 00:00:00,3:00 PM ET,AC Milan,Tottenham Hotspur,Unknown Lineup,Tottenham Hotspur,M/D,R. Sessegnon,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Club Brugge,Benfica,Unknown Lineup,Club Brugge,D,Clinton Mata,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Club Brugge,Benfica,Unknown Lineup,Club Brugge,M,Mats Rits,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Club Brugge,Benfica,Unknown Lineup,Benfica,F/M,J. Draxler,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Club Brugge,Benfica,Unknown Lineup,Benfica,D,Morato,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,M/D,T. Meunier,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,F,J. Bynoe-Gittens,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,M,M. Dahoud,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,F,S. Haller,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,D,Mats Hummels,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,F,A. Modeste,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,D,Mateu Morey,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,F/M,Marco Reus,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,D,Tom Rothe,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Borussia Dortmund,M/D,Marius Wolf,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M/D,C. Azpilicueta,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M,R. Loftus-Cheek,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,G,K. Arrizabalaga,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M/D,Ben Chilwell,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M,C. Chukwuemeka,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,D,W. Fofana,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M/D,Reece James,NO
+2022-11-18 17:57:20,2022 World Cup Starting - Starting XI For Each Country,2022-02-15 00:00:00,3:00 PM ET,Borussia Dortmund,Chelsea,Unknown Lineup,Chelsea,M,N'Golo Kante,NO
