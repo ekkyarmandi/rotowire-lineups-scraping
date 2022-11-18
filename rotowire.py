@@ -7,14 +7,6 @@ import os
 
 class Rotowire:
 
-    def __init__(self) -> None:
-        self.filename = "rotowire.csv"
-        self.lineup_rows = []
-        if not os.path.exists(self.filename):
-            self.prev_data = []
-        else:
-            self.prev_data = pd.read_csv(self.filename)
-
     def get(self,url) -> None:
         '''
         Make a GET request to the URL and scrape the lineups
@@ -35,6 +27,7 @@ class Rotowire:
         )
 
         # fint the lineups
+        self.lineup_rows = []
         lineups = html.find("div",class_="lineups").find_all("div",class_="lineup")
         for lineup in lineups:
             if all([x not in lineup['class'] for x in ['is-ad','is-tools']]):
@@ -86,9 +79,19 @@ class Rotowire:
         Export scraped lineups data as a csv/json
         '''
 
+        league = self.league.lower().replace(" ","_")
+        filename = f"{league}_rotowire.csv"
+
+        prev_df = [] 
+        if os.path.exists(filename):
+            prev_df = pd.read_csv(filename)
+
         df = pd.DataFrame(self.lineup_rows)
         columns = ['scraping_timestamp','league','date','time','home','away','status','team','position','player','playing']
-        df = df[columns]
-        if len(self.prev_data) > 0:
-            df = pd.concat([self.prev_data,df])
-        df.to_csv(self.filename,index=False)
+        try:
+            df = df[columns]
+            if len(prev_df) > 0:
+                df = pd.concat([prev_df,df])
+            df.to_csv(filename,index=False)
+        except:
+            print('Error: the table was Empty')

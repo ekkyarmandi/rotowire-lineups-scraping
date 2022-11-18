@@ -1,7 +1,5 @@
 from rotowire import Rotowire
 
-rw = Rotowire()
-
 urls = [
     "https://www.rotowire.com/soccer/lineups.php",
     "https://www.rotowire.com/soccer/lineups.php?league=FRAN",
@@ -13,7 +11,7 @@ urls = [
     "https://www.rotowire.com/soccer/lineups.php?league=LMX"
 ]
 
+rw = Rotowire()
 for url in urls:
     rw.get(url)
-
-rw.save()
+    rw.save()
